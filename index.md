@@ -1,2 +1,0 @@
-<script async src="https:&#x2F;&#x2F;sdk.canva.com&#x2F;v1&#x2F;embed.js"></script>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DADz-QPbbSo&#x2F;view?utm_content=DADz-QPbbSo&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Diamonds - Light</a> by <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;estelle.noel?utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Estelle</a>
